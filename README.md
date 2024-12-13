@@ -103,3 +103,5 @@ A Python function is provided to preprocess a single image and predict whether i
 - **cat_or_dog_2.jpg**: Cat
 
 ---
+
+https://medium.com/@zxie_5538/building-a-convolutional-neural-network-to-classify-cats-and-dogs-bb45ec6d286d
